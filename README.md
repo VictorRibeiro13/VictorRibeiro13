@@ -2,7 +2,7 @@
 
 Call me Victor 😄
 
-I have been interested in the technology area since I was young and I believe that technology, more than any other, transforms the way which we live and empowers people. Nowadays, I challenge myself to always grow,evolving and anchieve the best results. I work in the technology area and want to develop projects that can tranform people's lives.
+I have been interested in the technology area since I was young and I believe that technology, more than any other, transforms the way which we live and empowers people. Nowadays, I challenge myself to always grow, evolving and anchieve the best results. I work in the technology area and I want to develop projects that can tranform people's lives.
 
 I have worked as technical support, IT intern, Node.js developer and today I'm evolving my skills to be a future software architect.
 
