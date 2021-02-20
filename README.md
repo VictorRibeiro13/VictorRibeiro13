@@ -10,7 +10,7 @@ I have worked as technical support, IT intern, Node.js developer and today I'm e
 - 🌎 I'm from São Paulo, SP - Brazil
 - 🌱 I’m currently learning: Node, Docker, Typescript, AWS, Angular, React Native, Software Architecture Patterns and .NET Core (C#) 
 
-<b>⚡ My most currently used languages ⚡</b>*
+<b>⚡ My most currently used languages ⚡</b>
 <div> 
   <a href="https://github.com/VictorRibeiro13/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRibeiro13&hide=jupyter+notebook&layout=compact&theme=dark&hide_title=true" />
