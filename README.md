@@ -11,7 +11,7 @@ I have worked as technical support, IT intern, Node.js developer and today I'm e
 - ⚡ My most currently used languages:
 <div> 
   <a href="https://github.com/VictorRibeiro13/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRibeiro13&hide=jupyter+notebook&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRibeiro13&hide=jupyter+notebook&layout=compact&theme=dark" />
   </a>
 </div>  
 
