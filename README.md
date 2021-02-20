@@ -6,7 +6,8 @@ I have been interested in the technology area since I was young and I believe th
 
 I have worked as technical support, IT intern, Node.js developer and today I'm evolving my skills to be a future software architect.
 
-- 🔭 I’m currently working on Itaú Unibanco
+- 🔭 I currently work at Itaú Unibanco
+- 🌎 I'm from São Paulo, SP - Brazil
 - 🌱 I’m currently learning: Node, Docker, Typescript, AWS, Angular, React Native, Software Architecture Patterns and .NET Core (C#) 
 
 <b>⚡ My most currently used languages ⚡</b>*
