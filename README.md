@@ -8,14 +8,14 @@ I have worked as technical support, IT intern, Node.js developer and today I'm e
 
 - 🔭 I’m currently working on Itaú Unibanco
 - 🌱 I’m currently learning: 
-
+- ⚡ My most currently used languages:
 <div> 
-<a href="https://github.com/VictorRibeiro13/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRibeiro13&hide=jupyter+notebook&layout=compact" />
-</a>
+  <a href="https://github.com/VictorRibeiro13/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRibeiro13&hide=jupyter+notebook&layout=compact" />
+  </a>
 </div>  
 
- You can reach me in Linkedin or by email, in both cards below.
+ <br>You can reach me in Linkedin or by email, in both cards below.
 
 [![linkedin URL](https://img.shields.io/twitter/url?color=%230077B5&label=linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/victor-ribeiro13/)](https://www.linkedin.com/in/victor-ribeiro13/) 
 [![gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=mailto:contato.vsr13@gmail.com)](mailto:contato.vsr13@gmail.com)
@@ -36,11 +36,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
