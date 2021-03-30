@@ -8,7 +8,7 @@ I have worked as technical support, IT intern, Node.js developer and today I'm e
 
 - 🔭 I currently work at Itaú Unibanco
 - 🌎 I'm from São Paulo, SP - Brazil
-- 🌱 I’m currently learning: Node, Docker, Typescript, AWS, Angular, React Native, Software Architecture Patterns and .NET Core (C#) 
+- 🌱 I’m currently learning: Node, Docker, Typescript, Spring Boot, AWS, Angular, React Native and Software Architecture Patterns
 
 <b>⚡ My most currently used languages ⚡</b>
 <div> 
